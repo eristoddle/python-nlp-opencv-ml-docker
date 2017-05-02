@@ -1,0 +1,22 @@
+cython
+sumy
+numpy
+scipy
+scikit-learn
+theano
+keras
+pandas
+flask
+jsonpickle
+py-translate
+textblob
+spacy
+gensim
+polyglot
+google
+ftfy
+annoy
+selenium
+python-resize-image
+-e git+https://github.com/orenmel/context2vec.git#egg=context2vec
+-e git+https://github.com/japerk/nltk-trainer.git#egg=nltk-trainer
