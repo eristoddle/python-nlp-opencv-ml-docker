@@ -14,7 +14,7 @@ RUN apt-get install -y nodejs
 RUN npm -g install phantomjs
 
 RUN apt-get install -y build-essential cmake pkg-config
-RUN apt-get install -y libjpeg8-dev libtiff5-dev libjasper-dev libpng12-dev
+RUN apt-get install -y libjpeg62-turbo-dev libtiff5-dev libjasper-dev libpng12-dev
 RUN apt-get install -y libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
 RUN apt-get install -y libxvidcore-dev libx264-dev
 RUN apt-get install -y libgtk-3-dev
