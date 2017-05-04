@@ -18,6 +18,6 @@ ftfy
 annoy
 selenium
 python-resize-image
-python-opencv
+opencv-python
 -e git+https://github.com/orenmel/context2vec.git#egg=context2vec
 -e git+https://github.com/japerk/nltk-trainer.git#egg=nltk-trainer
