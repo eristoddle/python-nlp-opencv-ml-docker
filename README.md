@@ -4,8 +4,6 @@ Python docker image with a lot of natural language processing, image processing 
 - cython
 - sumy
 - numpy
-
-
 - scipy
 - scikit-learn
 - theano
@@ -30,8 +28,8 @@ Python docker image with a lot of natural language processing, image processing 
 
 ## Update 11-11-2017
 
-Added 
+Added
 
-- juptyer
-- plotly 
+- jupyter
+- plotly
 - quandl
