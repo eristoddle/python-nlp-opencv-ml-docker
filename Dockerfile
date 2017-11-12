@@ -5,6 +5,7 @@ RUN python -c "import nltk; nltk.download('averaged_perceptron_tagger')"
 RUN python -c "import nltk; nltk.download('maxent_ne_chunker')"
 RUN python -c "import nltk; nltk.download('words')"
 RUN python -m spacy download en
+RUN ipython profile create
 
 RUN apt-get update
 # RUN apt-get upgrade

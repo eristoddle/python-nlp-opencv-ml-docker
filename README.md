@@ -33,3 +33,4 @@ Added
 - jupyter
 - plotly
 - quandl
+- ipython
