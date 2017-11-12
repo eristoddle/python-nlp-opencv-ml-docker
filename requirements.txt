@@ -22,3 +22,6 @@ opencv-python
 requests
 -e git+https://github.com/orenmel/context2vec.git#egg=context2vec
 -e git+https://github.com/japerk/nltk-trainer.git#egg=nltk-trainer
+plotly
+juptyer
+quandl
